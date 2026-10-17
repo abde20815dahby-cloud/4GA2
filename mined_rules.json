@@ -1,0 +1,645 @@
+{
+  "rules": [
+    {
+      "rule_id": "RULE_008",
+      "category": "riverain_name",
+      "rule_type": "angle_normalize_90",
+      "description": "riverain_name angles always in [-90°, +90°] range in DEF",
+      "confidence": 0.985,
+      "evidence_count": 1492,
+      "total_count": 1514,
+      "impact_parcels": 24,
+      "details": {}
+    },
+    {
+      "rule_id": "RULE_007",
+      "category": "riverain_name",
+      "rule_type": "force_rotation_zero",
+      "description": "riverain_name texts always have rotation=0.0 in expert DEF",
+      "confidence": 0.98,
+      "evidence_count": 1483,
+      "total_count": 1514,
+      "impact_parcels": 136,
+      "details": {
+        "mean_ore_rot": 30.9,
+        "mean_def_rot": 5.0
+      }
+    },
+    {
+      "rule_id": "RULE_004",
+      "category": "borne",
+      "rule_type": "force_rotation_zero",
+      "description": "borne texts always have rotation=0.0 in expert DEF",
+      "confidence": 1.0,
+      "evidence_count": 1414,
+      "total_count": 1414,
+      "impact_parcels": 0,
+      "details": {
+        "mean_ore_rot": 0.0,
+        "mean_def_rot": 0.0
+      }
+    },
+    {
+      "rule_id": "RULE_011",
+      "category": "riverain_name",
+      "rule_type": "position_preserve",
+      "description": "riverain_name texts keep their original position (mean shift < 5m)",
+      "confidence": 0.88,
+      "evidence_count": 1333,
+      "total_count": 1514,
+      "impact_parcels": 28,
+      "details": {
+        "mean_distance": 8.05,
+        "max_distance": 483.35,
+        "std_distance": 41.9
+      }
+    },
+    {
+      "rule_id": "RULE_006",
+      "category": "borne",
+      "rule_type": "position_preserve",
+      "description": "borne texts keep their original position (mean shift < 5m)",
+      "confidence": 0.879,
+      "evidence_count": 1243,
+      "total_count": 1414,
+      "impact_parcels": 4,
+      "details": {
+        "mean_distance": 2.07,
+        "max_distance": 35.12,
+        "std_distance": 3.39
+      }
+    },
+    {
+      "rule_id": "RULE_009",
+      "category": "riverain_name",
+      "rule_type": "delete",
+      "description": "riverain_name texts are deleted by expert in 136 parcels",
+      "confidence": 0.344,
+      "evidence_count": 1755,
+      "total_count": 5103,
+      "impact_parcels": 136,
+      "details": {
+        "sample_texts": [
+          "{\\fTimes New Roman|b1|i0|c178|p18;الملك المسمى :إغنوين 110}",
+          "\\A1;Contenance : 13{\\H0.7x;\\SA^ ;} 47{\\H0.7x;\\SCa^ ;} : مساحة",
+          "Plle n° : 114",
+          "v.BBP1",
+          "Plle n° : 122",
+          "(1) : Mur en Droit de superficie au profit de -\\P",
+          "{\\fTimes New Roman|b1|i0|c178|p18;الملك المسمى :التعالب 576}",
+          "Hert Abdlaoi Rabat Bn3li",
+          "Plle n° : 600",
+          "Plle n° : 564"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_012",
+      "category": "coord",
+      "rule_type": "force_rotation_zero",
+      "description": "coord texts always have rotation=0.0 in expert DEF",
+      "confidence": 1.0,
+      "evidence_count": 594,
+      "total_count": 594,
+      "impact_parcels": 135,
+      "details": {
+        "mean_ore_rot": 40.0,
+        "mean_def_rot": 0.0
+      }
+    },
+    {
+      "rule_id": "RULE_014",
+      "category": "coord",
+      "rule_type": "position_preserve",
+      "description": "coord texts keep their original position (mean shift < 5m)",
+      "confidence": 0.933,
+      "evidence_count": 554,
+      "total_count": 594,
+      "impact_parcels": 10,
+      "details": {
+        "mean_distance": 2.75,
+        "max_distance": 231.9,
+        "std_distance": 19.27
+      }
+    },
+    {
+      "rule_id": "RULE_016",
+      "category": "verborne",
+      "rule_type": "angle_normalize_90",
+      "description": "verborne angles always in [-90°, +90°] range in DEF",
+      "confidence": 0.997,
+      "evidence_count": 308,
+      "total_count": 309,
+      "impact_parcels": 85,
+      "details": {}
+    },
+    {
+      "rule_id": "RULE_015",
+      "category": "verborne",
+      "rule_type": "force_rotation_zero",
+      "description": "verborne texts always have rotation=0.0 in expert DEF",
+      "confidence": 0.994,
+      "evidence_count": 307,
+      "total_count": 309,
+      "impact_parcels": 90,
+      "details": {
+        "mean_ore_rot": 280.0,
+        "mean_def_rot": 1.1
+      }
+    },
+    {
+      "rule_id": "RULE_020",
+      "category": "tc_nature",
+      "rule_type": "angle_normalize_90",
+      "description": "tc_nature angles always in [-90°, +90°] range in DEF",
+      "confidence": 1.0,
+      "evidence_count": 277,
+      "total_count": 277,
+      "impact_parcels": 53,
+      "details": {}
+    },
+    {
+      "rule_id": "RULE_019",
+      "category": "tc_nature",
+      "rule_type": "force_rotation_zero",
+      "description": "tc_nature texts always have rotation=0.0 in expert DEF",
+      "confidence": 0.996,
+      "evidence_count": 276,
+      "total_count": 277,
+      "impact_parcels": 70,
+      "details": {
+        "mean_ore_rot": 112.2,
+        "mean_def_rot": 0.1
+      }
+    },
+    {
+      "rule_id": "RULE_001",
+      "category": "paren_borne",
+      "rule_type": "force_rotation_zero",
+      "description": "paren_borne texts always have rotation=0.0 in expert DEF",
+      "confidence": 1.0,
+      "evidence_count": 234,
+      "total_count": 234,
+      "impact_parcels": 0,
+      "details": {
+        "mean_ore_rot": 0.0,
+        "mean_def_rot": 0.0
+      }
+    },
+    {
+      "rule_id": "RULE_003",
+      "category": "paren_borne",
+      "rule_type": "position_preserve",
+      "description": "paren_borne texts keep their original position (mean shift < 5m)",
+      "confidence": 0.842,
+      "evidence_count": 197,
+      "total_count": 234,
+      "impact_parcels": 2,
+      "details": {
+        "mean_distance": 2.5,
+        "max_distance": 32.07,
+        "std_distance": 4.57
+      }
+    },
+    {
+      "rule_id": "RULE_022",
+      "category": "tc_nature",
+      "rule_type": "position_preserve",
+      "description": "tc_nature texts keep their original position (mean shift < 5m)",
+      "confidence": 0.729,
+      "evidence_count": 202,
+      "total_count": 277,
+      "impact_parcels": 32,
+      "details": {
+        "mean_distance": 9.46,
+        "max_distance": 236.41,
+        "std_distance": 24.66
+      }
+    },
+    {
+      "rule_id": "RULE_021",
+      "category": "tc_nature",
+      "rule_type": "delete",
+      "description": "tc_nature texts are deleted by expert in 115 parcels",
+      "confidence": 0.303,
+      "evidence_count": 309,
+      "total_count": 1021,
+      "impact_parcels": 115,
+      "details": {
+        "sample_texts": [
+          "Héritiers Ahmed Ben Ali\\PTC",
+          "Héritiers Mahroui Mansour Mouman Et Abdelkader Mouman\\PTC",
+          "Héritiers Hamaoui Amina\\PTC",
+          "Khlifi Zahra\\PTC",
+          "Héritiers Mansori Mohammed Ben Lahsen \\PTC",
+          "Plle 1333\\PTC",
+          "Allaoui Ramdan\\PTC",
+          "Héritiers Zarfaoui Kadour\\PTC",
+          "Hrts Ali Ben Youssef \\PTC",
+          "Plle 1299\\PTC"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_031",
+      "category": "riverain_name",
+      "rule_type": "delete_informal_on_RT_facade",
+      "description": "Informal names deleted when façade has R.../T... title",
+      "confidence": 0.2,
+      "evidence_count": 351,
+      "total_count": 1755,
+      "impact_parcels": 28,
+      "details": {
+        "sample_deleted": [
+          "Plle n° : 114",
+          "{\\fTimes New Roman|b1|i0|c178|p18;الملك المسمى :إغنوين 31}",
+          "\\A1;Contenance : 01{\\H0.7x;\\SHa^ ;} 30{\\H0.7x;\\SA^ ;} 27{\\H0.7x;\\SCa^ ;} : مساحة",
+          "\\A1;Contenance : 03{\\H0.7x;\\SA^ ;} 05{\\H0.7x;\\SCa^ ;} : مساحة",
+          "v.BP15",
+          "\\A1;Contenance : 01{\\H0.7x;\\SA^ ;} 44{\\H0.7x;\\SCa^ ;} : مساحة",
+          "\\A1;Contenance : 11{\\H0.7x;\\SHa^ ;} 84{\\H0.7x;\\SA^ ;} 28{\\H0.7x;\\SCa^ ;} : مساحة",
+          "Plle n° : 537",
+          "ST 25",
+          "Plle n° : 117"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_023",
+      "category": "linear_detail",
+      "rule_type": "delete",
+      "description": "linear_detail texts are deleted by expert in 87 parcels",
+      "confidence": 0.304,
+      "evidence_count": 221,
+      "total_count": 728,
+      "impact_parcels": 87,
+      "details": {
+        "sample_texts": [
+          "chemin de 3 m",
+          "depression",
+          "piste de 5 m",
+          "piste de 10 m",
+          "oued",
+          "L.E.B.T",
+          "chaaba",
+          "Piste publique de LV (DDP)"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_017",
+      "category": "verborne",
+      "rule_type": "delete",
+      "description": "verborne texts are deleted by expert in 55 parcels",
+      "confidence": 0.256,
+      "evidence_count": 185,
+      "total_count": 724,
+      "impact_parcels": 55,
+      "details": {
+        "sample_texts": [
+          "v.B3837",
+          "v.B13338",
+          "v.B7013",
+          "v.B10399",
+          "v.B8445",
+          "v.B14469",
+          "v.B10557",
+          "v.B10397",
+          "v.B10701",
+          "v.B13070"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_026",
+      "category": "riverain_RT",
+      "rule_type": "angle_normalize_90",
+      "description": "riverain_RT angles always in [-90°, +90°] range in DEF",
+      "confidence": 0.968,
+      "evidence_count": 30,
+      "total_count": 31,
+      "impact_parcels": 17,
+      "details": {}
+    },
+    {
+      "rule_id": "RULE_025",
+      "category": "riverain_RT",
+      "rule_type": "force_rotation_zero",
+      "description": "riverain_RT texts always have rotation=0.0 in expert DEF",
+      "confidence": 0.935,
+      "evidence_count": 29,
+      "total_count": 31,
+      "impact_parcels": 26,
+      "details": {
+        "mean_ore_rot": 255.9,
+        "mean_def_rot": 14.8
+      }
+    },
+    {
+      "rule_id": "RULE_027",
+      "category": "riverain_RT",
+      "rule_type": "delete",
+      "description": "riverain_RT texts are deleted by expert in 37 parcels",
+      "confidence": 0.358,
+      "evidence_count": 59,
+      "total_count": 165,
+      "impact_parcels": 37,
+      "details": {
+        "sample_texts": [
+          "T140042/02(PU)",
+          "R27280/02(B.C du 16.12.2024)",
+          "T96968/02(PU)",
+          "R7042/O(PU)",
+          "T19645/O (PR)",
+          "T142534/02(PU)",
+          "T142624/02(PU)",
+          "T168646/02(PU)",
+          "T138251/02(PU)",
+          "T148182/02(PU)"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_024",
+      "category": "linear_detail",
+      "rule_type": "deduplicate",
+      "description": "linear_detail texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.166,
+      "evidence_count": 121,
+      "total_count": 728,
+      "impact_parcels": 46,
+      "details": {
+        "avg_copies_removed_per_parcel": 2.6
+      }
+    },
+    {
+      "rule_id": "RULE_030",
+      "category": "other",
+      "rule_type": "position_preserve",
+      "description": "other texts keep their original position (mean shift < 5m)",
+      "confidence": 1.0,
+      "evidence_count": 9,
+      "total_count": 9,
+      "impact_parcels": 0,
+      "details": {
+        "mean_distance": 1.27,
+        "max_distance": 3.77,
+        "std_distance": 1.35
+      }
+    },
+    {
+      "rule_id": "RULE_029",
+      "category": "other",
+      "rule_type": "deduplicate",
+      "description": "other texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.375,
+      "evidence_count": 18,
+      "total_count": 48,
+      "impact_parcels": 6,
+      "details": {
+        "avg_copies_removed_per_parcel": 3.0
+      }
+    },
+    {
+      "rule_id": "RULE_028",
+      "category": "other",
+      "rule_type": "delete",
+      "description": "other texts are deleted by expert in 10 parcels",
+      "confidence": 0.333,
+      "evidence_count": 16,
+      "total_count": 48,
+      "impact_parcels": 10,
+      "details": {
+        "sample_texts": [
+          "mur",
+          "1",
+          "Ax"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_018",
+      "category": "verborne",
+      "rule_type": "deduplicate",
+      "description": "verborne texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.081,
+      "evidence_count": 59,
+      "total_count": 724,
+      "impact_parcels": 34,
+      "details": {
+        "avg_copies_removed_per_parcel": 1.7
+      }
+    },
+    {
+      "rule_id": "RULE_013",
+      "category": "coord",
+      "rule_type": "delete",
+      "description": "coord texts are deleted by expert in 43 parcels",
+      "confidence": 0.081,
+      "evidence_count": 56,
+      "total_count": 695,
+      "impact_parcels": 43,
+      "details": {
+        "sample_texts": [
+          "790400",
+          "794100",
+          "789000",
+          "444250",
+          "792550",
+          "444000",
+          "786800",
+          "789250",
+          "791500",
+          "446400"
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE_005",
+      "category": "borne",
+      "rule_type": "deduplicate",
+      "description": "borne texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.034,
+      "evidence_count": 51,
+      "total_count": 1488,
+      "impact_parcels": 51,
+      "details": {
+        "avg_copies_removed_per_parcel": 1.0
+      }
+    },
+    {
+      "rule_id": "RULE_002",
+      "category": "paren_borne",
+      "rule_type": "deduplicate",
+      "description": "paren_borne texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.044,
+      "evidence_count": 13,
+      "total_count": 297,
+      "impact_parcels": 4,
+      "details": {
+        "avg_copies_removed_per_parcel": 3.2
+      }
+    },
+    {
+      "rule_id": "RULE_010",
+      "category": "riverain_name",
+      "rule_type": "deduplicate",
+      "description": "riverain_name texts: expert keeps only 1 copy (deduplication)",
+      "confidence": 0.005,
+      "evidence_count": 27,
+      "total_count": 5103,
+      "impact_parcels": 11,
+      "details": {
+        "avg_copies_removed_per_parcel": 2.5
+      }
+    }
+  ],
+  "statistics": {
+    "total_pairs_analyzed": 137,
+    "total_transforms": 10269,
+    "actions": {
+      "added": 2879,
+      "modified": 2507,
+      "deleted": 2605,
+      "kept": 1989,
+      "deduplicated": 289
+    },
+    "categories": {
+      "paren_borne": 297,
+      "borne": 1488,
+      "riverain_name": 5103,
+      "coord": 695,
+      "verborne": 724,
+      "tc_nature": 1021,
+      "linear_detail": 728,
+      "riverain_RT": 165,
+      "other": 48
+    },
+    "category_actions": {
+      "paren_borne": {
+        "added": 50,
+        "kept": 114,
+        "modified": 120,
+        "deduplicated": 13
+      },
+      "borne": {
+        "modified": 908,
+        "kept": 506,
+        "deduplicated": 51,
+        "added": 19,
+        "deleted": 4
+      },
+      "riverain_name": {
+        "added": 1807,
+        "modified": 559,
+        "deleted": 1755,
+        "kept": 955,
+        "deduplicated": 27
+      },
+      "coord": {
+        "deleted": 56,
+        "added": 45,
+        "modified": 302,
+        "kept": 292
+      },
+      "verborne": {
+        "deleted": 185,
+        "modified": 307,
+        "deduplicated": 59,
+        "added": 171,
+        "kept": 2
+      },
+      "tc_nature": {
+        "deleted": 309,
+        "modified": 166,
+        "added": 435,
+        "kept": 111
+      },
+      "linear_detail": {
+        "deleted": 221,
+        "added": 272,
+        "modified": 106,
+        "deduplicated": 121,
+        "kept": 8
+      },
+      "riverain_RT": {
+        "deleted": 59,
+        "added": 75,
+        "modified": 31
+      },
+      "other": {
+        "deleted": 16,
+        "modified": 8,
+        "deduplicated": 18,
+        "added": 5,
+        "kept": 1
+      }
+    },
+    "rotation_by_category": {
+      "paren_borne": {
+        "mean_ore_rot": 0.0,
+        "mean_def_rot": 0.0,
+        "n_zero_ore": 234,
+        "n_zero_def": 234,
+        "total": 234
+      },
+      "borne": {
+        "mean_ore_rot": 0.0,
+        "mean_def_rot": 0.0,
+        "n_zero_ore": 1414,
+        "n_zero_def": 1414,
+        "total": 1414
+      },
+      "riverain_name": {
+        "mean_ore_rot": 30.89,
+        "mean_def_rot": 4.97,
+        "n_zero_ore": 1168,
+        "n_zero_def": 1483,
+        "total": 1514
+      },
+      "coord": {
+        "mean_ore_rot": 40.0,
+        "mean_def_rot": 0.0,
+        "n_zero_ore": 330,
+        "n_zero_def": 594,
+        "total": 594
+      },
+      "verborne": {
+        "mean_ore_rot": 280.02,
+        "mean_def_rot": 1.15,
+        "n_zero_ore": 2,
+        "n_zero_def": 307,
+        "total": 309
+      },
+      "tc_nature": {
+        "mean_ore_rot": 112.16,
+        "mean_def_rot": 0.14,
+        "n_zero_ore": 153,
+        "n_zero_def": 276,
+        "total": 277
+      },
+      "linear_detail": {
+        "mean_ore_rot": 254.27,
+        "mean_def_rot": 236.51,
+        "n_zero_ore": 3,
+        "n_zero_def": 3,
+        "total": 114
+      },
+      "riverain_RT": {
+        "mean_ore_rot": 255.91,
+        "mean_def_rot": 14.75,
+        "n_zero_ore": 0,
+        "n_zero_def": 29,
+        "total": 31
+      },
+      "other": {
+        "mean_ore_rot": 202.15,
+        "mean_def_rot": 103.43,
+        "n_zero_ore": 0,
+        "n_zero_def": 2,
+        "total": 9
+      }
+    }
+  },
+  "generated_at": "2026-10-16 17:01:27"
+}

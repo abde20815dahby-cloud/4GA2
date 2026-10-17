@@ -1,0 +1,3353 @@
+{
+  "version": "1.0.0",
+  "description": "Coffre-fort des Détails Linéaires Cadastraux Experts ANCFCC 100% DEF",
+  "stats": {
+    "parcelles_total": 137,
+    "parcelles_avec_lineaires": 117,
+    "total_lineaires": 267
+  },
+  "parcelles": {
+    "P1": {
+      "parcel_id": "P1",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P1\\P1-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793780.05,
+          "y": 440309.25,
+          "rotation": 332.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793835.34,
+          "y": 440223.59,
+          "rotation": 288.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P100": {
+      "parcel_id": "P100",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P100\\P100-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV (DDP)",
+          "x": 788591.37,
+          "y": 446560.0,
+          "rotation": 16.7,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P102": {
+      "parcel_id": "P102",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P102\\P102-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.M.T",
+          "x": 789769.73,
+          "y": 445844.6,
+          "rotation": 275.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P103": {
+      "parcel_id": "P103",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P103\\P103-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.M.T",
+          "x": 789851.75,
+          "y": 445044.93,
+          "rotation": 276.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790022.71,
+          "y": 445147.65,
+          "rotation": 289.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P106": {
+      "parcel_id": "P106",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P106\\P106-PLAN.dxf",
+      "lineaires": []
+    },
+    "P107": {
+      "parcel_id": "P107",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P107\\P107-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788811.93,
+          "y": 445489.53,
+          "rotation": 302.8,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P109": {
+      "parcel_id": "P109",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P109\\P109-PLAN.dxf",
+      "lineaires": []
+    },
+    "P11": {
+      "parcel_id": "P11",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P11\\P11-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792843.51,
+          "y": 440849.87,
+          "rotation": 61.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792681.82,
+          "y": 440823.6,
+          "rotation": 296.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792816.63,
+          "y": 440867.08,
+          "rotation": 3.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P110": {
+      "parcel_id": "P110",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P110\\P110-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788819.39,
+          "y": 445471.55,
+          "rotation": 301.7,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.H.T",
+          "x": 788945.2,
+          "y": 445391.77,
+          "rotation": 11.1,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P111": {
+      "parcel_id": "P111",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P111\\P111-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792055.95,
+          "y": 445341.75,
+          "rotation": 319.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 5 m",
+          "x": 791684.53,
+          "y": 445161.98,
+          "rotation": 304.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791693.84,
+          "y": 445193.67,
+          "rotation": 275.0,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P112": {
+      "parcel_id": "P112",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P112\\P112-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792084.48,
+          "y": 445289.66,
+          "rotation": 272.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 5 m",
+          "x": 791705.62,
+          "y": 445138.47,
+          "rotation": 303.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 5 m",
+          "x": 791751.91,
+          "y": 445078.66,
+          "rotation": 26.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P113": {
+      "parcel_id": "P113",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P113\\P113-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792009.92,
+          "y": 445452.34,
+          "rotation": 313.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P114": {
+      "parcel_id": "P114",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P114\\P114-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "route reg de 30 m",
+          "x": 790940.93,
+          "y": 445170.33,
+          "rotation": 444.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P115": {
+      "parcel_id": "P115",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P115\\P115-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "route reg de 30 m",
+          "x": 790930.92,
+          "y": 445097.11,
+          "rotation": 444.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P117": {
+      "parcel_id": "P117",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P117\\P117-PLAN.dxf",
+      "lineaires": []
+    },
+    "P118": {
+      "parcel_id": "P118",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P118\\P118-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.H.T",
+          "x": 789850.15,
+          "y": 445574.92,
+          "rotation": 11.5,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.M.T",
+          "x": 789808.27,
+          "y": 445498.35,
+          "rotation": 275.7,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P119": {
+      "parcel_id": "P119",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P119\\P119-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790737.69,
+          "y": 443574.93,
+          "rotation": 327.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P120": {
+      "parcel_id": "P120",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P120\\P120-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790789.85,
+          "y": 443573.15,
+          "rotation": 338.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P122": {
+      "parcel_id": "P122",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P122\\P122-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 6 m",
+          "x": 791063.43,
+          "y": 443100.91,
+          "rotation": 319.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de LV",
+          "x": 790998.66,
+          "y": 442948.91,
+          "rotation": 52.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791546.72,
+          "y": 443033.67,
+          "rotation": 322.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791025.06,
+          "y": 442986.6,
+          "rotation": 46.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791118.64,
+          "y": 443003.73,
+          "rotation": 317.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin",
+          "x": 791096.66,
+          "y": 442890.72,
+          "rotation": 43.5,
+          "height": 3.6,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 790995.91,
+          "y": 442892.42,
+          "rotation": 327.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791505.2,
+          "y": 443134.59,
+          "rotation": 294.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P125": {
+      "parcel_id": "P125",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P125\\P125-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791233.38,
+          "y": 444367.39,
+          "rotation": 316.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P126": {
+      "parcel_id": "P126",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P126\\P126-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792108.42,
+          "y": 444368.98,
+          "rotation": 305.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P14": {
+      "parcel_id": "P14",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P14\\P14 DEFINITIVE-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 793093.69,
+          "y": 441643.5,
+          "rotation": 276.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792945.69,
+          "y": 441531.12,
+          "rotation": 33.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792920.33,
+          "y": 441615.08,
+          "rotation": 355.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793106.81,
+          "y": 441593.61,
+          "rotation": 276.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P15": {
+      "parcel_id": "P15",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P15\\P15-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792947.95,
+          "y": 441531.75,
+          "rotation": 35.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793121.69,
+          "y": 441530.26,
+          "rotation": 291.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 793093.16,
+          "y": 441590.45,
+          "rotation": 276.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P16": {
+      "parcel_id": "P16",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P16\\P16-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.H.T",
+          "x": 793104.09,
+          "y": 441957.54,
+          "rotation": 444.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 793189.14,
+          "y": 442014.45,
+          "rotation": 326.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793095.22,
+          "y": 441972.23,
+          "rotation": 75.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 793219.32,
+          "y": 442023.11,
+          "rotation": 317.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P17": {
+      "parcel_id": "P17",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P17\\P17-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 793342.4,
+          "y": 440603.78,
+          "rotation": 319.3,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P18": {
+      "parcel_id": "P18",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P18\\P18-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 793353.31,
+          "y": 440593.22,
+          "rotation": 319.9,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793382.74,
+          "y": 440626.96,
+          "rotation": 365.2,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P19": {
+      "parcel_id": "P19",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P19\\P19-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "canal",
+          "x": 793210.19,
+          "y": 440283.91,
+          "rotation": 307.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793283.11,
+          "y": 440291.45,
+          "rotation": 289.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793152.96,
+          "y": 440267.52,
+          "rotation": 67.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P2": {
+      "parcel_id": "P2",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P2\\P2-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 793363.13,
+          "y": 440468.57,
+          "rotation": 88.2,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 793349.43,
+          "y": 440420.81,
+          "rotation": 264.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 793382.99,
+          "y": 440514.41,
+          "rotation": 67.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 793424.45,
+          "y": 440594.11,
+          "rotation": 314.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P20": {
+      "parcel_id": "P20",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P20\\P20-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 8 m",
+          "x": 793331.92,
+          "y": 440303.23,
+          "rotation": 278.7,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P21": {
+      "parcel_id": "P21",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P21\\P21-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 793467.39,
+          "y": 440546.69,
+          "rotation": 350.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P218": {
+      "parcel_id": "P218",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P218\\P218-PLAN.dxf",
+      "lineaires": []
+    },
+    "P220": {
+      "parcel_id": "P220",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P220\\P220-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793337.91,
+          "y": 440022.66,
+          "rotation": 290.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 793384.01,
+          "y": 439903.39,
+          "rotation": 84.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P23": {
+      "parcel_id": "P23",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P23\\P23-PLAN.dxf",
+      "lineaires": []
+    },
+    "P24": {
+      "parcel_id": "P24",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P24\\P24-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793213.38,
+          "y": 440401.21,
+          "rotation": 75.0,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P25": {
+      "parcel_id": "P25",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P25\\P25-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793913.38,
+          "y": 439996.74,
+          "rotation": 276.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793912.19,
+          "y": 439971.59,
+          "rotation": 248.7,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P26": {
+      "parcel_id": "P26",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P26\\P26-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793918.45,
+          "y": 439975.4,
+          "rotation": 77.0,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793910.24,
+          "y": 439950.12,
+          "rotation": 430.3,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P27": {
+      "parcel_id": "P27",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P27\\P27-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 793774.66,
+          "y": 439857.95,
+          "rotation": 350.2,
+          "height": 3.6,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 5 m",
+          "x": 793733.32,
+          "y": 439795.67,
+          "rotation": 90.0,
+          "height": 3.6,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de 10 m",
+          "x": 793615.18,
+          "y": 439798.6,
+          "rotation": 328.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P29": {
+      "parcel_id": "P29",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P29\\P29-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de 10 m",
+          "x": 793633.13,
+          "y": 439793.69,
+          "rotation": 328.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P3": {
+      "parcel_id": "P3",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P3\\P3-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 793356.61,
+          "y": 440440.37,
+          "rotation": 269.2,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P30": {
+      "parcel_id": "P30",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P30\\P30-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791727.45,
+          "y": 443148.04,
+          "rotation": 271.4,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791466.81,
+          "y": 443509.12,
+          "rotation": 305.4,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791626.14,
+          "y": 443036.09,
+          "rotation": 343.4,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791267.28,
+          "y": 443329.76,
+          "rotation": 310.5,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791602.06,
+          "y": 443009.48,
+          "rotation": 316.3,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791557.07,
+          "y": 443023.87,
+          "rotation": 321.6,
+          "height": 10.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P31": {
+      "parcel_id": "P31",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P31\\P31-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791550.52,
+          "y": 443409.97,
+          "rotation": 310.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 791675.43,
+          "y": 443410.95,
+          "rotation": 314.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791602.35,
+          "y": 443259.37,
+          "rotation": 305.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P32": {
+      "parcel_id": "P32",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P32\\P32-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792931.76,
+          "y": 440959.7,
+          "rotation": 17.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792591.39,
+          "y": 440882.36,
+          "rotation": 334.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792778.1,
+          "y": 440961.82,
+          "rotation": 352.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792633.05,
+          "y": 440908.67,
+          "rotation": 11.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792659.61,
+          "y": 440875.69,
+          "rotation": 10.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P33": {
+      "parcel_id": "P33",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P33\\P33-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 792529.11,
+          "y": 440857.26,
+          "rotation": 26.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792590.89,
+          "y": 440883.82,
+          "rotation": 333.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P34": {
+      "parcel_id": "P34",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P34\\P34-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792490.18,
+          "y": 440842.32,
+          "rotation": 56.4,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792508.99,
+          "y": 440840.59,
+          "rotation": 42.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 792514.12,
+          "y": 440862.92,
+          "rotation": 22.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P36": {
+      "parcel_id": "P36",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P36\\P36-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 792112.94,
+          "y": 442965.4,
+          "rotation": 315.4,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P37": {
+      "parcel_id": "P37",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P37\\P37-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 792071.39,
+          "y": 442869.39,
+          "rotation": 20.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792081.95,
+          "y": 442853.58,
+          "rotation": 50.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 4 m",
+          "x": 792002.67,
+          "y": 442891.36,
+          "rotation": 312.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 792080.06,
+          "y": 442998.9,
+          "rotation": 315.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P38": {
+      "parcel_id": "P38",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P38\\P38-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 791838.0,
+          "y": 442985.01,
+          "rotation": 342.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792028.96,
+          "y": 442779.17,
+          "rotation": 413.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 791940.75,
+          "y": 443139.19,
+          "rotation": 316.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791707.16,
+          "y": 442779.99,
+          "rotation": 313.3,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 4 m",
+          "x": 791982.36,
+          "y": 442899.97,
+          "rotation": 312.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791603.03,
+          "y": 442992.0,
+          "rotation": 292.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791679.22,
+          "y": 442892.94,
+          "rotation": 313.3,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791703.97,
+          "y": 443172.25,
+          "rotation": 304.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P4": {
+      "parcel_id": "P4",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P4\\P4-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793120.71,
+          "y": 440871.91,
+          "rotation": 349.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793052.77,
+          "y": 440842.36,
+          "rotation": 19.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P40": {
+      "parcel_id": "P40",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P40\\P40-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790846.87,
+          "y": 443973.28,
+          "rotation": 301.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 790890.42,
+          "y": 444034.41,
+          "rotation": 317.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P41": {
+      "parcel_id": "P41",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P41\\P41-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790848.1,
+          "y": 443964.62,
+          "rotation": 301.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P42": {
+      "parcel_id": "P42",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P42\\P42-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791439.46,
+          "y": 444156.53,
+          "rotation": 317.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791283.21,
+          "y": 443987.44,
+          "rotation": 332.2,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P43": {
+      "parcel_id": "P43",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P43\\P43-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 8 m",
+          "x": 794041.15,
+          "y": 438150.51,
+          "rotation": 334.2,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 794059.67,
+          "y": 438167.76,
+          "rotation": 311.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P45": {
+      "parcel_id": "P45",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P45\\P45-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791129.69,
+          "y": 444073.88,
+          "rotation": 323.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 790930.81,
+          "y": 443998.62,
+          "rotation": 321.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791023.42,
+          "y": 444117.8,
+          "rotation": 338.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P46": {
+      "parcel_id": "P46",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P46\\P46-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793227.62,
+          "y": 440565.5,
+          "rotation": 304.3,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793237.73,
+          "y": 440548.95,
+          "rotation": 304.3,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P47": {
+      "parcel_id": "P47",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P47\\P47-PLAN.dxf",
+      "lineaires": []
+    },
+    "P48": {
+      "parcel_id": "P48",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P48\\P48-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 791384.78,
+          "y": 443244.53,
+          "rotation": 312.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791280.98,
+          "y": 443244.3,
+          "rotation": 55.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P49": {
+      "parcel_id": "P49",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P49\\P49-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 791041.97,
+          "y": 442994.1,
+          "rotation": 47.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791056.91,
+          "y": 443060.64,
+          "rotation": 317.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 6 m",
+          "x": 790924.64,
+          "y": 443212.21,
+          "rotation": 328.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 790903.4,
+          "y": 443198.01,
+          "rotation": 325.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de LV",
+          "x": 791058.08,
+          "y": 442997.66,
+          "rotation": 50.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P5": {
+      "parcel_id": "P5",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P5\\P5-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 792000.6,
+          "y": 443081.37,
+          "rotation": 316.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P523": {
+      "parcel_id": "P523",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P523\\P523-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "chemin de LV",
+          "x": 793892.55,
+          "y": 439855.52,
+          "rotation": 89.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 793884.85,
+          "y": 439836.4,
+          "rotation": 351.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P524": {
+      "parcel_id": "P524",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P524\\P524-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793978.8,
+          "y": 439753.27,
+          "rotation": 428.3,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 793952.84,
+          "y": 439820.34,
+          "rotation": 322.4,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chemin",
+          "x": 793957.06,
+          "y": 439813.82,
+          "rotation": 308.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P525": {
+      "parcel_id": "P525",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P525\\P525-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "cloture",
+          "x": 793969.79,
+          "y": 439918.1,
+          "rotation": 405.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P526": {
+      "parcel_id": "P526",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P526\\P526-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "cloture",
+          "x": 793950.42,
+          "y": 439928.87,
+          "rotation": 300.9,
+          "height": 0.36,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P537": {
+      "parcel_id": "P537",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P537\\P537-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 8 m",
+          "x": 793522.45,
+          "y": 438590.74,
+          "rotation": 317.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793408.35,
+          "y": 438753.68,
+          "rotation": 271.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P54": {
+      "parcel_id": "P54",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P54\\P54-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 792142.83,
+          "y": 442895.44,
+          "rotation": 19.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792062.93,
+          "y": 442842.57,
+          "rotation": 410.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 792154.11,
+          "y": 442934.45,
+          "rotation": 316.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P56": {
+      "parcel_id": "P56",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P56\\P56-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 789989.37,
+          "y": 444495.92,
+          "rotation": 335.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P563": {
+      "parcel_id": "P563",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P563\\P563-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "cloture",
+          "x": 793945.02,
+          "y": 439922.54,
+          "rotation": 382.9,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 3 m",
+          "x": 793948.99,
+          "y": 439826.32,
+          "rotation": 311.7,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793906.16,
+          "y": 439934.08,
+          "rotation": 435.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 3 m",
+          "x": 793890.8,
+          "y": 439876.3,
+          "rotation": 82.5,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P564": {
+      "parcel_id": "P564",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P564\\P564-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 793933.94,
+          "y": 439827.27,
+          "rotation": 344.5,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "depression",
+          "x": 793928.3,
+          "y": 439833.86,
+          "rotation": 336.0,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P565": {
+      "parcel_id": "P565",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P565\\P565-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 794020.55,
+          "y": 439784.29,
+          "rotation": 341.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P566": {
+      "parcel_id": "P566",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P566\\P566-PLAN.dxf",
+      "lineaires": []
+    },
+    "P567": {
+      "parcel_id": "P567",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P567\\P567-PLAN.dxf",
+      "lineaires": []
+    },
+    "P568": {
+      "parcel_id": "P568",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P568\\P568-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 793015.2,
+          "y": 440228.62,
+          "rotation": 45.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P574": {
+      "parcel_id": "P574",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P574\\P574-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 791831.31,
+          "y": 445061.71,
+          "rotation": 308.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 791738.3,
+          "y": 445078.88,
+          "rotation": 28.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791710.75,
+          "y": 444861.13,
+          "rotation": 338.9,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P575": {
+      "parcel_id": "P575",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P575\\P575-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792292.32,
+          "y": 445772.14,
+          "rotation": 296.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 792461.22,
+          "y": 445792.04,
+          "rotation": 283.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 792439.67,
+          "y": 445853.41,
+          "rotation": 291.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P576": {
+      "parcel_id": "P576",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P576\\P576-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792355.43,
+          "y": 445626.6,
+          "rotation": 287.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P577": {
+      "parcel_id": "P577",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P577\\P577-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792232.78,
+          "y": 445882.34,
+          "rotation": 293.7,
+          "height": 4.94,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P7": {
+      "parcel_id": "P7",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P7\\P7-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "chemin de 3 m",
+          "x": 793248.49,
+          "y": 441865.5,
+          "rotation": 26.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 793293.61,
+          "y": 441917.15,
+          "rotation": 298.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaabat",
+          "x": 793116.29,
+          "y": 441839.74,
+          "rotation": 304.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P70": {
+      "parcel_id": "P70",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P70\\P70-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 791597.33,
+          "y": 442615.97,
+          "rotation": 333.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 791710.34,
+          "y": 442758.94,
+          "rotation": 322.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 791594.22,
+          "y": 442607.95,
+          "rotation": 330.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P71": {
+      "parcel_id": "P71",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P71\\P71-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "cloture",
+          "x": 792032.7,
+          "y": 442460.43,
+          "rotation": 48.3,
+          "height": 1.8,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "oued",
+          "x": 792080.77,
+          "y": 442454.69,
+          "rotation": 311.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 792046.0,
+          "y": 442401.05,
+          "rotation": 329.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P72": {
+      "parcel_id": "P72",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P72\\P72-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 791893.24,
+          "y": 442481.43,
+          "rotation": 336.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 791922.96,
+          "y": 442529.31,
+          "rotation": 71.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "cloture",
+          "x": 792031.55,
+          "y": 442487.7,
+          "rotation": 321.3,
+          "height": 1.8,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "cloture",
+          "x": 791990.29,
+          "y": 442441.38,
+          "rotation": 325.4,
+          "height": 1.8,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 791862.09,
+          "y": 442526.83,
+          "rotation": 411.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "oued",
+          "x": 791966.79,
+          "y": 442528.05,
+          "rotation": 317.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 791937.73,
+          "y": 442460.12,
+          "rotation": 336.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P73": {
+      "parcel_id": "P73",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P73\\P73-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 791870.99,
+          "y": 442530.31,
+          "rotation": 411.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "oued",
+          "x": 791870.15,
+          "y": 442635.93,
+          "rotation": 326.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 791764.39,
+          "y": 442529.36,
+          "rotation": 330.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P9": {
+      "parcel_id": "P9",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P9\\P9-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 792784.06,
+          "y": 440868.51,
+          "rotation": 355.1,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 792660.69,
+          "y": 440847.88,
+          "rotation": 318.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P96": {
+      "parcel_id": "P96",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P96\\P96-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788616.85,
+          "y": 446612.64,
+          "rotation": 278.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P97": {
+      "parcel_id": "P97",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P97\\P97-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788618.79,
+          "y": 446610.06,
+          "rotation": 273.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P98": {
+      "parcel_id": "P98",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P98\\P98-PLAN.dxf",
+      "lineaires": []
+    },
+    "P99": {
+      "parcel_id": "P99",
+      "zone": "IGHANOUYINE",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\IGHANOUYINE\\DEF\\P99\\P99-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV (DDP)",
+          "x": 788555.52,
+          "y": 446554.25,
+          "rotation": 16.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P104": {
+      "parcel_id": "P104",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P104\\P104-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.M.T",
+          "x": 789922.14,
+          "y": 444354.44,
+          "rotation": 275.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P105": {
+      "parcel_id": "P105",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P105\\P105-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788958.17,
+          "y": 445299.77,
+          "rotation": 303.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P108": {
+      "parcel_id": "P108",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P108\\P108-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 788668.67,
+          "y": 445374.58,
+          "rotation": 400.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.H.T",
+          "x": 788696.27,
+          "y": 445333.24,
+          "rotation": 11.1,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P116": {
+      "parcel_id": "P116",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P116\\P116-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 10 m",
+          "x": 788691.42,
+          "y": 443976.17,
+          "rotation": 303.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P121": {
+      "parcel_id": "P121",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P121\\P121-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789899.99,
+          "y": 443410.18,
+          "rotation": 300.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.M.T",
+          "x": 790017.91,
+          "y": 443415.47,
+          "rotation": 275.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789746.71,
+          "y": 443669.76,
+          "rotation": 300.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789739.04,
+          "y": 443708.53,
+          "rotation": 329.0,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789774.56,
+          "y": 443571.38,
+          "rotation": 84.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P124": {
+      "parcel_id": "P124",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P124\\P124-PLAN.dxf",
+      "lineaires": []
+    },
+    "P203": {
+      "parcel_id": "P203",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P203\\P203-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 786375.31,
+          "y": 443381.01,
+          "rotation": 333.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P204": {
+      "parcel_id": "P204",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P204\\P204-PLAN.dxf",
+      "lineaires": []
+    },
+    "P212": {
+      "parcel_id": "P212",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P212\\P212-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 786817.13,
+          "y": 443542.25,
+          "rotation": 443.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P213": {
+      "parcel_id": "P213",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P213\\P213-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 786831.14,
+          "y": 443532.46,
+          "rotation": 443.3,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P216": {
+      "parcel_id": "P216",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P216\\P216-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 10 m",
+          "x": 786840.19,
+          "y": 443787.92,
+          "rotation": 85.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P233": {
+      "parcel_id": "P233",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P233\\P233-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV (DDP)",
+          "x": 789223.96,
+          "y": 439748.4,
+          "rotation": 312.4,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 789207.54,
+          "y": 439743.91,
+          "rotation": 22.3,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P234": {
+      "parcel_id": "P234",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P234\\P234-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789220.16,
+          "y": 439803.71,
+          "rotation": 349.0,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de LV",
+          "x": 789207.23,
+          "y": 439743.7,
+          "rotation": 23.5,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 30 m",
+          "x": 789185.22,
+          "y": 439783.55,
+          "rotation": 61.2,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de LV",
+          "x": 789224.46,
+          "y": 439750.23,
+          "rotation": 307.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P235": {
+      "parcel_id": "P235",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P235\\P235-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789252.65,
+          "y": 439793.74,
+          "rotation": 334.5,
+          "height": 0.5,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste de LV",
+          "x": 789228.89,
+          "y": 439744.39,
+          "rotation": 313.0,
+          "height": 0.5,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P236": {
+      "parcel_id": "P236",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P236\\P236-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 789180.56,
+          "y": 439726.18,
+          "rotation": 34.0,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 30 m",
+          "x": 789162.53,
+          "y": 439743.69,
+          "rotation": 61.2,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P237": {
+      "parcel_id": "P237",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P237\\P237-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de LV",
+          "x": 789181.99,
+          "y": 439730.23,
+          "rotation": 30.9,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de LV",
+          "x": 789174.28,
+          "y": 439709.45,
+          "rotation": 318.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P244": {
+      "parcel_id": "P244",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P244\\P244-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 789939.52,
+          "y": 440846.72,
+          "rotation": 323.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 789867.12,
+          "y": 440786.33,
+          "rotation": 316.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790006.57,
+          "y": 440900.49,
+          "rotation": 301.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P245": {
+      "parcel_id": "P245",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P245\\P245-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789860.28,
+          "y": 440771.26,
+          "rotation": 310.6,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 789872.75,
+          "y": 440775.85,
+          "rotation": 321.0,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P246": {
+      "parcel_id": "P246",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P246\\P246-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789835.88,
+          "y": 440782.79,
+          "rotation": 314.2,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789739.85,
+          "y": 440646.89,
+          "rotation": 317.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P248": {
+      "parcel_id": "P248",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P248\\P248-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789874.1,
+          "y": 440740.48,
+          "rotation": 297.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789763.96,
+          "y": 440600.14,
+          "rotation": 316.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P249": {
+      "parcel_id": "P249",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P249\\P249-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 789971.19,
+          "y": 440582.34,
+          "rotation": 47.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789967.33,
+          "y": 440658.18,
+          "rotation": 288.7,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789864.54,
+          "y": 440515.51,
+          "rotation": 319.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 3m",
+          "x": 789982.12,
+          "y": 440598.35,
+          "rotation": 405.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P250": {
+      "parcel_id": "P250",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P250\\P250-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789899.37,
+          "y": 440695.85,
+          "rotation": 315.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789806.58,
+          "y": 440557.9,
+          "rotation": 303.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P251": {
+      "parcel_id": "P251",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P251\\P251-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789906.01,
+          "y": 440699.88,
+          "rotation": 301.6,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 789934.28,
+          "y": 440729.95,
+          "rotation": 317.3,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P252": {
+      "parcel_id": "P252",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P252\\P252-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789966.63,
+          "y": 440664.14,
+          "rotation": 292.2,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 789982.11,
+          "y": 440687.97,
+          "rotation": 316.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "chemin de 3 m",
+          "x": 789987.25,
+          "y": 440647.12,
+          "rotation": 87.0,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P256": {
+      "parcel_id": "P256",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P256\\P256-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 790178.29,
+          "y": 442228.96,
+          "rotation": 78.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.M.T",
+          "x": 790137.49,
+          "y": 442253.9,
+          "rotation": 275.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 30 m",
+          "x": 790207.12,
+          "y": 442175.1,
+          "rotation": 434.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P261": {
+      "parcel_id": "P261",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P261\\P261-PLAN.dxf",
+      "lineaires": []
+    },
+    "P262": {
+      "parcel_id": "P262",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P262\\P262-PLAN.dxf",
+      "lineaires": []
+    },
+    "P263": {
+      "parcel_id": "P263",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P263\\P263-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 10 m",
+          "x": 788880.61,
+          "y": 443711.6,
+          "rotation": 314.3,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P50": {
+      "parcel_id": "P50",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P50\\P50-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790351.16,
+          "y": 444347.34,
+          "rotation": 325.3,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790071.13,
+          "y": 444060.18,
+          "rotation": 330.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P51": {
+      "parcel_id": "P51",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P51\\P51-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790079.1,
+          "y": 444051.68,
+          "rotation": 321.7,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P52": {
+      "parcel_id": "P52",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P52\\P52-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790588.63,
+          "y": 444197.2,
+          "rotation": 320.9,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790562.71,
+          "y": 444179.41,
+          "rotation": 341.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P53": {
+      "parcel_id": "P53",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P53\\P53-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 790548.6,
+          "y": 444179.25,
+          "rotation": 341.8,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790264.76,
+          "y": 443878.11,
+          "rotation": 313.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P538": {
+      "parcel_id": "P538",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P538\\P538-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 8 m",
+          "x": 793390.33,
+          "y": 438620.56,
+          "rotation": 38.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 8 m",
+          "x": 793427.26,
+          "y": 438746.41,
+          "rotation": 271.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793383.7,
+          "y": 438702.58,
+          "rotation": 84.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793392.02,
+          "y": 438761.66,
+          "rotation": 55.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P539": {
+      "parcel_id": "P539",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P539\\P539-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 8 m",
+          "x": 793317.61,
+          "y": 438630.95,
+          "rotation": 293.0,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 793364.65,
+          "y": 438691.29,
+          "rotation": 79.3,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P55": {
+      "parcel_id": "P55",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P55\\P55-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789510.82,
+          "y": 443864.96,
+          "rotation": 320.5,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P57": {
+      "parcel_id": "P57",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P57\\P57-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789742.99,
+          "y": 444622.96,
+          "rotation": 330.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P573": {
+      "parcel_id": "P573",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P573\\P573-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "piste de 5 m",
+          "x": 789616.94,
+          "y": 443784.75,
+          "rotation": 326.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P585": {
+      "parcel_id": "P585",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P585\\P585-PLAN.dxf",
+      "lineaires": []
+    },
+    "P586": {
+      "parcel_id": "P586",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P586\\P586-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 789202.59,
+          "y": 439679.28,
+          "rotation": 45.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste de 10",
+          "x": 789288.68,
+          "y": 439580.82,
+          "rotation": 394.5,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 789165.84,
+          "y": 439723.58,
+          "rotation": 318.6,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789312.26,
+          "y": 439679.28,
+          "rotation": 327.4,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 30 m",
+          "x": 789109.94,
+          "y": 439648.72,
+          "rotation": 60.9,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Depression",
+          "x": 789188.11,
+          "y": 439573.91,
+          "rotation": 0,
+          "height": 1.2,
+          "layer": "annotation",
+          "entity_type": "MTEXT"
+        }
+      ]
+    },
+    "P587": {
+      "parcel_id": "P587",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P587\\P587-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 789277.5,
+          "y": 439725.93,
+          "rotation": 10.4,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique de LV",
+          "x": 789184.76,
+          "y": 439706.97,
+          "rotation": 316.5,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789291.52,
+          "y": 439728.51,
+          "rotation": 280.3,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 789206.03,
+          "y": 439685.12,
+          "rotation": 45.4,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P588": {
+      "parcel_id": "P588",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P588\\P588-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 789255.02,
+          "y": 439720.25,
+          "rotation": 12.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Piste publique",
+          "x": 789194.24,
+          "y": 439690.95,
+          "rotation": 36.4,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 789274.65,
+          "y": 439765.21,
+          "rotation": 284.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P589": {
+      "parcel_id": "P589",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P589\\P589-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Piste publique de LV",
+          "x": 789189.44,
+          "y": 439700.99,
+          "rotation": 318.6,
+          "height": 0.4,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P590": {
+      "parcel_id": "P590",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P590\\P590-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "L.E.B.T",
+          "x": 790346.83,
+          "y": 441484.85,
+          "rotation": 299.8,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Chaâbat",
+          "x": 790330.06,
+          "y": 441478.18,
+          "rotation": 290.0,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "Route goudronnée de 15 m",
+          "x": 790347.2,
+          "y": 441491.85,
+          "rotation": 300.1,
+          "height": 1.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P599": {
+      "parcel_id": "P599",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P599\\P599-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "Chaâbat",
+          "x": 789767.93,
+          "y": 442426.57,
+          "rotation": 300.8,
+          "height": 2.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P600": {
+      "parcel_id": "P600",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P600\\P600-PLAN.dxf",
+      "lineaires": []
+    },
+    "P601": {
+      "parcel_id": "P601",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P601\\P601-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "chemin",
+          "x": 789165.81,
+          "y": 440987.69,
+          "rotation": 336.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "depression",
+          "x": 789084.59,
+          "y": 440878.6,
+          "rotation": 324.2,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "L.E.B.T",
+          "x": 789072.43,
+          "y": 441042.57,
+          "rotation": 312.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 5 m",
+          "x": 789166.06,
+          "y": 440892.68,
+          "rotation": 54.6,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P602": {
+      "parcel_id": "P602",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P602\\P602-PLAN.dxf",
+      "lineaires": [
+        {
+          "text": "depression",
+          "x": 788097.52,
+          "y": 442423.81,
+          "rotation": 323.4,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        },
+        {
+          "text": "piste de 10 m",
+          "x": 788186.49,
+          "y": 442464.41,
+          "rotation": 309.7,
+          "height": 4.0,
+          "layer": "0",
+          "entity_type": "TEXT"
+        }
+      ]
+    },
+    "P64": {
+      "parcel_id": "P64",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P64\\P64-PLAN.dxf",
+      "lineaires": []
+    },
+    "P65": {
+      "parcel_id": "P65",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P65\\P65-PLAN.dxf",
+      "lineaires": []
+    },
+    "P67": {
+      "parcel_id": "P67",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P67\\P67-PLAN.dxf",
+      "lineaires": []
+    },
+    "P68": {
+      "parcel_id": "P68",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P68\\P68-PLAN.dxf",
+      "lineaires": []
+    },
+    "P69": {
+      "parcel_id": "P69",
+      "zone": "LEQSAQSA",
+      "def_path": "C:\\Users\\Admin\\Downloads\\Sous_Zone 01\\LEQSAQSA\\DEF\\P69\\P69-PLAN.dxf",
+      "lineaires": []
+    }
+  }
+}
